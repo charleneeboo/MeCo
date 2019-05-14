@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeCo</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_managepills">Manage Pills</string>
+    <string name="btn_checkpills">History of Patient\'s Dose</string>
+</resources>
